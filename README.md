@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Links
 
-[DEMO LINK](http://github.com)
+[DEMO LINK](https://kind-kepler-efd946.netlify.app/)
 
 [https://app.netlify.com](https://app.netlify.com)
 
