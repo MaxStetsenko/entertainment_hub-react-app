@@ -13,4 +13,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### Libraries
 > [material-ui](https://material-ui.com/) 
-> [react-alice-carousel](https://www.npmjs.com/package/react-alice-carousel)
+>> [react-alice-carousel](https://www.npmjs.com/package/react-alice-carousel)
